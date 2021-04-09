@@ -1,0 +1,53 @@
+{
+   "Brands":[
+        {
+            "id": "1",
+            "name": "Audi",
+            "allModels":[
+                {
+                    "modelName":"Q2",
+                    "price":3500000,
+                    "img-url":"https://upload.wikimedia.org/wikipedia/commons/e/e3/2017_Audi_Q2_Sport_TDi_1.6_Front.jpg"
+                },
+                {
+                    "modelName":"A4.",
+                    "price":3600000,
+                    "img-url":"https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https%3A%2F%2Fcdni.autocarindia.com%2FExtraImages%2F20201221042750_A4-facelift.jpg&h=795&w=1200&c=0"
+                }
+            ]
+        },
+        
+        {
+            "id": "2",
+            "name": "BMW",
+            "allModels":[
+                {
+                    "modelName":"X1",
+                    "price":3700000,
+                    "img-url":"https://imgd.aeplcdn.com/0x0/n/cw/ec/45242/bmw-x1-facelift-right-front-three-quarter2.jpeg"
+                },
+                {
+                    "modelName":"X5",
+                    "price":3800000,
+                    "img-url":"https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=http%3A%2F%2Fcms.haymarketindia.net%2Fmodel%2Fuploads%2Fmodelimages%2Fx5modelimage.jpg&h=300&w=450&q=100"
+                }
+            ]
+        },
+        {    
+            "id": "3",
+            "name": "Bentely",
+            "allModels":[
+                {
+                    "modelName":"XX",
+                    "price":3500000,
+                    "img-url":"https://upload.wikimedia.org/wikipedia/commons/e/e3/2017_Audi_Q2_Sport_TDi_1.6_Front.jpg"
+                },
+                {
+                    "modelName":"XXX",
+                    "price":3600000,
+                    "img-url":"https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https%3A%2F%2Fcdni.autocarindia.com%2FExtraImages%2F20201221042750_A4-facelift.jpg&h=795&w=1200&c=0"
+                }
+            ]
+        }
+   ]
+}
